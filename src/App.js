@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import counter from './App.js'
 
 function App() {
   return (
